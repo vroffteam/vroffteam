@@ -11,7 +11,7 @@ website = 'https://xdearboy.github.io/'
 
 [bio]
 categories = [
-  'generalist',
+  'work',
 ]
 interests = [
   'tools',
