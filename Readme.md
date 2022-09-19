@@ -10,6 +10,7 @@ city = 'Moscow, Russia.'
 website = 'https://xdearboy.github.io/'
 
 [bio]
+website = "https://vroffteam.github.io/"
 categories = [
   'work',
 ]
